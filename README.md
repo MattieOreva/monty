@@ -1,5 +1,3 @@
-# monty
-
 
 You just released the advanced tasks of this project. Have fun!
 0x19. C - Stacks, Queues - LIFO, FIFO
