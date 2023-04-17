@@ -35,7 +35,7 @@ typedef struct stack_s
  * @head: doubly linked list
  * @fd: file descriptor
  * @buffer: input text
- * 
+ *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
  */
